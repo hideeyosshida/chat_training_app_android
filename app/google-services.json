@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "969197159413",
+    "project_id": "test-chat-f84ce",
+    "storage_bucket": "test-chat-f84ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969197159413:android:1964b1f74bed16446196bc",
+        "android_client_info": {
+          "package_name": "com.example.chat_training_app_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969197159413-sh2c6pjmsgvdgmc4omb3eei5lmhpe7j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMKsmbwcF5yQe7ogxsiPI8Aael533g1ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969197159413-sh2c6pjmsgvdgmc4omb3eei5lmhpe7j6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "969197159413-9tf8fn191jvk5ghdcdsgqjmnnprn8e52.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "test.Test",
+                "app_store_id": "680187"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
